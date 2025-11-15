@@ -1,6 +1,6 @@
 # Real-Time Speech Translation
 
-A real-time speech-to-speech translation system that listens to English speech, translates it to Spanish, and speaks the translation back using text-to-speech.
+An Fully-Offline real-time speech-to-speech translation system that listens to English speech, translates it to Spanish, and speaks the translation back using text-to-speech.
 
 ## Features
 
